@@ -1,0 +1,7 @@
+{
+  "execMap": {
+    "ts": "ts-node"
+  },
+  "restartable": "rs",
+  "ignore": [".git", "node_modules/**/node_modules"]
+}
