@@ -29,7 +29,9 @@ because this is a unique project where you can practice and share with the open 
 
 this is nodejs environment, use node command line to excute the files
 
-to run a solution
+# How to excute a solution
+
+`npm i`
 
 `npm start <location to file>`
 
